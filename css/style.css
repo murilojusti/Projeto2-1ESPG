@@ -1,8 +1,16 @@
 #calc{
     background-color: black;
-    color: red
+    color: red;
 }
 #calc:hover{
     background-color: red;
-    color:black
+    color:black;
+    width: 100px;
+    box-shadow: 10px 5px 5px grey;
+}
+
+#resultado{
+    font-size: 150px;
+    color: red;
+    margin-left: 100px;
 }
